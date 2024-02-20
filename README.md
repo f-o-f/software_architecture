@@ -24,6 +24,9 @@
 - http request sample
 - routing sample
 - test code tool
+- editor config
+- 静的解析設定
+- フォーマッター設定
 - 環境設定（Dev,Stg,Prd）
 
 #### Server
@@ -37,4 +40,7 @@
 - API sample
 - routing sample
 - test code tool
+- editor config
+- 静的解析設定
+- フォーマッター設定
 - 環境設定（Dev,Stg,Prd）
