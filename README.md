@@ -1,5 +1,7 @@
 # software_architecture
 
+各フォルダ毎にREADME.mdをコピーして導入したものなどを記載する
+
 ## 開発開始までに準備が必要なもの
 
 ### Document
