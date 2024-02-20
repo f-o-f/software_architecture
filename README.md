@@ -22,6 +22,7 @@
 - footer
 - main page sample
 - http request sample
+- routing sample
 - 環境設定（Dev,Stg,Prd）
 
 #### Server
