@@ -23,6 +23,7 @@
 - main page sample
 - http request sample
 - routing sample
+- test code tool
 - 環境設定（Dev,Stg,Prd）
 
 #### Server
@@ -30,8 +31,10 @@
 - logger
 - body purser
 - error handling
-- database accessor
 - authorization
+- database accessor
+- validation check
 - API sample
 - routing sample
+- test code tool
 - 環境設定（Dev,Stg,Prd）
